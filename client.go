@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	address = "localhost:5005"
+	address = "localhost:8080"
 )
 
 func main() {
